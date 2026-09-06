@@ -1,5 +1,5 @@
 # If not now, when?
-The project examines the relation between procrastination and our mental health. It is based on two studies and presents the causes of procrastination, as well as ways to overcome them. 
+The web article examines the reasons of procrastination, its impact on our mental health and ways to overcome them. The visualizations are based on two studies. 
 
 # Studies
 <ul>
